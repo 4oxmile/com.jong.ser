@@ -1,0 +1,62 @@
+html, body, div, dl, form, ol, p, table, ul, dd, dt, li, tbody, td, tfoot, th, thead, tr, a, b, br, i, img, small, span, strong, sub, sup, legend, fieldset, input, pre {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    font-size: 11px;
+    font-family: '나눔고딕','나눔 고딕','nanum gothic','맑은고딕','맑은 고딕','malgun gothic','돋움', '굴림',  'AppleGothic', Helvetica, Arial, sans-serif;
+}
+
+html {
+  background: none;
+}
+
+      body {
+        padding-top: 20px;
+        padding-bottom: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+
+      /* Custom container */
+      .container-narrow {
+        margin: 0 auto;
+        max-width: 700px;
+      }
+      .container-narrow > hr {
+        margin: 30px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 60px 0;
+        text-align: center;
+      }
+      .jumbotron h1 {
+        font-size: 72px;
+        line-height: 1;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* Supporting marketing content */
+      .marketing {
+        margin: 60px 0;
+      }
+      .marketing p + h4 {
+        margin-top: 28px;
+      }
+
+
+
+      .fn-gantt .leftPanel {
+      	display: none;
+      }
+      .fn-gantt .navigate {
+      	padding: 10px;
+      	width: 320px;
+      	margin: 0 auto;
+      }
+      
