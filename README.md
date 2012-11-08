@@ -15,7 +15,6 @@
 	- 임규찬 : Server ( PHP )
 	- 김웅민 : UI ( Bootstrap, Gant, jQuery )
 	
-	t
 
 	
 
