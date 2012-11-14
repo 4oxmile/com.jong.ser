@@ -8,7 +8,7 @@ $(document).ready( function() {
 				from: "/Date(1320192000000)/",
 				to: "/Date(1322401600000)/",
 				label: "Requirement Gathering", 
-				desc : 'kkkk',
+				desc : 'Analysis',
 				customClass: "ganttRed"
 			}]
 		},{
@@ -130,6 +130,10 @@ $(document).ready( function() {
 	});
 
 
+
+	$('input[name="daterange"]').daterangepicker(
+		
+	);
 
 
 });
