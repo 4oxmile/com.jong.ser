@@ -1,5 +1,4 @@
 
-
 #컴퓨터 종합 설계
 
 
@@ -11,9 +10,9 @@
 - 내용 : 소규모 프로젝트 관리 웹어플리 케이션
 
 - 구성원
-	- 박진수 : PM
-	- 임규찬 : Server ( PHP )
-	- 김웅민 : UI ( Bootstrap, Gant, jQuery )
+	- js : PM
+	- gc : Server ( PHP )
+	- wm : UI ( Bootstrap, Gant, jQuery )
 	
 
 	
